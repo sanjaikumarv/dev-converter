@@ -1,0 +1,18 @@
+[
+  {
+    "label": "JSON to CSV ",
+    "functionName": "JSONtoCSV",
+    "fieldType": "Textarea",
+    "download": "downloadCsv",
+    "downloadParams": ["dowload.csv", "text/csv;encoding:utf-8"],
+     "description": "This converts JSON or JavaScrtpt Object to CSV"
+  },
+  {
+    "label": "Array to CSV ",
+    "functionName": "arrayToCSV",
+    "fieldType": "Textarea",
+    "download": "downloadCsv",
+    "downloadParams": ["dowload.csv", "text/csv;encoding:utf-8"],
+    "description": "This converts Array to CSV"
+  }
+]

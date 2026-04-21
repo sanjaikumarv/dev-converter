@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "name": "Dev converter",
+  "builds": [
+    {
+      "src": "dev-converter-api/**/*.js",
+      "use": "@now/node",
+      "config": {
+        "maxLambdaSize": "50mb"
+      }
+    },
+    {
+      "src": "dev-converter-ui/package.json",
+      "use": "@now/next"
+    }
+  ]
+}

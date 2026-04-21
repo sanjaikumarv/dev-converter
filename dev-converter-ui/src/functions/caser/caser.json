@@ -1,0 +1,44 @@
+[
+  {
+    "label": "Capitalize",
+    "functionName": "toCapitalize",
+    "fieldType": "Textarea",
+    "description": "Convert any case to Uppercase"
+  },
+  {
+    "label": "Lowercase",
+    "functionName": "toSmallCase",
+    "fieldType": "Textarea",
+    "description": "Convert any case to Lowercase"
+  },
+  {
+    "label": "Camel Case",
+    "functionName": "toCamelCase",
+    "fieldType": "Textarea",
+    "description": "Convert any case to Camelcase"
+  },
+  {
+    "label": "Title Case",
+    "functionName": "toTitleCase",
+    "fieldType": "Textarea",
+    "description": "Convert any case to Titlecase"
+  },
+  {
+    "label": "Snake Case",
+    "functionName": "toSnakeCase",
+    "fieldType": "Textarea",
+    "description": "Convert any case to Snakecase"
+  },
+  {
+    "label": "Kebab Case",
+    "functionName": "toKebabCase",
+    "fieldType": "Textarea",
+    "description": "Convert any case to Kebabcase"
+  },
+  {
+    "label": "Swap Case",
+    "functionName": "toSwapCase",
+    "fieldType": "Textarea",
+    "description": "Convert any case to Swapcase"
+  }
+]
